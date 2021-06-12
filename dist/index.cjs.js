@@ -2179,17 +2179,17 @@ var socials = [
     {
         label: "Github",
         icon: "GithubIcon",
-        href: "https://github.com/martiandefi",
+        href: "#",
     },
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://martianswap.gitbook.io/",
+        href: "#",
     },
     {
         label: "Medium",
         icon: "MediumIcon",
-        href: "https://martianswap.medium.com/",
+        href: "#",
     },
     {
         label: "Telegram",
@@ -2197,7 +2197,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/martianswap",
+                href: "#",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2241,14 +2241,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/martianswapnews",
+                href: "#",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MartianSWAP",
+        href: "#",
     },
 ];
 var MENU_HEIGHT = 64;

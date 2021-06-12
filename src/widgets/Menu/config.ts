@@ -118,17 +118,17 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/martiandefi",
+    href: "#",
   },
   {
     label: "Gitbook",
     icon: "GitbookIcon",
-    href: "https://martianswap.gitbook.io/",
+    href: "#",
   },
   {
     label: "Medium",
     icon: "MediumIcon",
-    href: "https://martianswap.medium.com/",
+    href: "#",
   },
   {
     label: "Telegram",
@@ -136,7 +136,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/martianswap",
+        href: "#",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -180,7 +180,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/martianswapnews",
+        href: "#",
       },
       // {
       //   label: "Whale Alert",
@@ -191,7 +191,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/MartianSWAP",
+    href: "#",
   },
 ];
 
