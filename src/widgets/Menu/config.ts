@@ -59,6 +59,7 @@ export const links = [
     items: [
       {
         label: "Overview",
+        external: true,
         href: "https://pancakeswap.info",
       },
       {
@@ -115,12 +116,27 @@ export const links = [
 
 export const socials = [
   {
+    label: "Github",
+    icon: "GithubIcon",
+    href: "https://github.com/martiandefi",
+  },
+  {
+    label: "Gitbook",
+    icon: "GitbookIcon",
+    href: "https://martianswap.gitbook.io/",
+  },
+  {
+    label: "Medium",
+    icon: "MediumIcon",
+    href: "https://martianswap.medium.com/",
+  },
+  {
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
       {
         label: "English",
-        href: "#",
+        href: "https://t.me/martianswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +180,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "#",
+        href: "https://t.me/martianswapnews",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +191,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "#",
+    href: "https://twitter.com/MartianSWAP",
   },
 ];
 

@@ -11,31 +11,36 @@ export declare const links: ({
         label: string;
         href: string;
     }[];
+    calloutClass: string;
     href?: undefined;
-    calloutClass?: undefined;
 } | {
     label: string;
     icon: string;
-    items: {
+    items: ({
+        label: string;
+        external: boolean;
+        href: string;
+    } | {
         label: string;
         href: string;
-    }[];
-    calloutClass: string;
+        external?: undefined;
+    })[];
     href?: undefined;
+    calloutClass?: undefined;
 })[];
 export declare const socials: ({
     label: string;
     icon: string;
+    href: string;
+    items?: undefined;
+} | {
+    label: string;
+    icon: string;
     items: {
         label: string;
         href: string;
     }[];
     href?: undefined;
-} | {
-    label: string;
-    icon: string;
-    href: string;
-    items?: undefined;
 })[];
 export declare const MENU_HEIGHT = 64;
 export declare const MENU_ENTRY_HEIGHT = 48;
