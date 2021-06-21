@@ -400,7 +400,7 @@ var Icon$u = function (props) {
 
 var Icon$v = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React.createElement("image", { width: 90, height: 90, href: "https://ik.imagekit.io/sih3mpiiiaae/ushi-icon-w-border_aSIbE2EPm.svg" })));
+        React.createElement("image", { width: 90, height: 90, href: "https://ik.imagekit.io/sih3mpiiiaae/ushi-icon__2__ZqweZDSPf.svg" })));
 };
 
 var Icon$w = function (props) {
