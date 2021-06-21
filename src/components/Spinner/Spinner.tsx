@@ -15,7 +15,7 @@ const rotate = keyframes`
 const SpinnerIcon: React.FC<SvgProps> = (props) => {
   return (
     <Svg viewBox="0 0 96 96" {...props}>
-      <image width="96" height="96" href="https://ik.imagekit.io/sih3mpiiiaae/ushi-icon-w-border_aSIbE2EPm.svg" />
+      <image width="96" height="96" href="https://ik.imagekit.io/sih3mpiiiaae/cattle-navbar-icon_yJVQFn_n-.svg" />
     </Svg>
   );
 };
