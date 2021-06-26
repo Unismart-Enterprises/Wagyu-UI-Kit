@@ -1898,9 +1898,9 @@ var Icon$T = function (props) {
 };
 
 var Logo = function (_a) {
-    var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
+    _a.isDark; var props = __rest(_a, ["isDark"]);
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 39" }, props),
-        React__default['default'].createElement("image", { width: "205", height: "40", href: isDark ? "https://ik.imagekit.io/sih3mpiiiaae/wagyuswap-logo-text_uhU0sJo3w.svg" : "https://ik.imagekit.io/sih3mpiiiaae/wagyuswap-logo-text_uhU0sJo3w.svg" })));
+        React__default['default'].createElement("image", { width: "205", height: "40", href: "https://ik.imagekit.io/sih3mpiiiaae/wagyuswap-logo-text_uhU0sJo3w.svg" })));
 };
 
 var Icon$U = function (props) {
