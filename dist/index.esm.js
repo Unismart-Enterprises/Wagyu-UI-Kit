@@ -342,8 +342,8 @@ var Icon$p = function (props) {
 };
 
 var Icon$q = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-        React.createElement("image", { width: "32", height: "32", href: "https://ik.imagekit.io/sih3mpiiiaae/cattle-navbar-icon_yJVQFn_n-.svg" })));
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 150 150" }, props),
+        React.createElement("image", { width: "150", height: "150", href: "https://ik.imagekit.io/sih3mpiiiaae/cattle-navbar-icon_yJVQFn_n-.svg" })));
 };
 
 var Icon$r = function (props) {
